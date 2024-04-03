@@ -43,10 +43,11 @@ pip install -r requirements.txt
     - Detect finder patterns in the image using the `detector()` method.
     - Optionally, create a result image with detected patterns drawn using the `create_result_image()` method.
 
-4. **Input Images**: Provide images containing finder patterns as input. The code supports various image formats, including JPEG, PNG, etc.
+### Input Images 
+Provide images containing finder patterns as input. The code supports various image formats, including JPEG, PNG, etc.
 
-5. **Output**:
-    - The code generates a result image with detected patterns outlined in rectangles. The output image is saved with "_result" appended to the original image filename.
+### Output
+The code generates a result image with detected patterns outlined in rectangles. The output image is saved with "_result" appended to the original image filename.
 
 ## Example
 
